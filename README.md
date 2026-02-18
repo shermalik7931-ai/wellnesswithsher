@@ -1,0 +1,378 @@
+<style>
+{
+  margin:0;
+  font-family: 'Segoe UI', sans-serif;
+  background:#f6f8f7;
+  color:#1d1d1d;
+}
+
+.section {
+  padding:90px 20px;
+  text-align:center;
+}
+
+.container {
+  max-width:1100px;
+  margin:auto;
+}
+
+.hero {
+  background:linear-gradient(135deg,#e8f5e9,#ffffff);
+}
+
+h1 {
+  font-size:52px;
+  margin-bottom:20px;
+}
+
+h2 {
+  font-size:36px;
+  margin-bottom:25px;
+}
+
+h3 {
+  font-weight:400;
+  color:#444;
+}
+
+p {
+  max-width:750px;
+  margin:0 auto 25px;
+  line-height:1.7;
+  font-size:18px;
+  color:#555;
+}
+
+ul {
+  list-style:none;
+  padding:0;
+  max-width:800px;
+  margin:40px auto;
+  text-align:left;
+}
+
+ul li {
+  padding:12px 0;
+  font-size:18px;
+}
+
+.button {
+  display:inline-block;
+  padding:18px 40px;
+  background:#1b5e20;
+  color:#fff;
+  font-size:20px;
+  text-decoration:none;
+  border-radius:50px;
+  margin-top:30px;
+  transition:all 0.3s ease;
+  box-shadow:0 10px 30px rgba(0,0,0,0.1);
+}
+
+.button:hover {
+  background:#2e7d32;
+  transform:translateY(-3px);
+  box-shadow:0 15px 35px rgba(0,0,0,0.2);
+}
+
+.book-img {
+  width:320px;
+  margin:50px auto;
+  border-radius:15px;
+  box-shadow:0 25px 60px rgba(0,0,0,0.15);
+}
+
+.cards {
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:center;
+  gap:30px;
+}
+
+.card {
+  background:#fff;
+  padding:35px;
+  width:300px;
+  border-radius:20px;
+  box-shadow:0 15px 40px rgba(0,0,0,0.05);
+  text-align:left;
+}
+
+.price {
+  font-size:60px;
+  font-weight:bold;
+  color:#1b5e20;
+}
+
+.strike {
+  text-decoration:line-through;
+  color:#888;
+}
+
+.review {
+  background:#ffffff;
+  padding:30px;
+  border-radius:20px;
+  box-shadow:0 10px 30px rgba(0,0,0,0.05);
+  max-width:800px;
+  margin:20px auto;
+}
+
+.footer {
+  background:#111;
+  color:#bbb;
+  font-size:13px;
+  padding:50px 20px;
+  line-height:1.6;
+}
+
+@media(max-width:768px){
+  h1 { font-size:38px; }
+  h2 { font-size:28px; }
+  .cards { flex-direction:column; align-items:center; }
+}
+</style>
+
+<!-- HERO -->
+<div class="section hero">
+<div class="container">
+<h1>🌿 The Healing Power of Herbs</h1>
+<h3>Naturally Heal Your Body Without Chemicals</h3>
+<p>A complete step-by-step guide to healing 30+ common health problems using powerful herbal remedies.</p>
+
+<img src="https://d1yei2z3i6k35z.cloudfront.net/14921244/699357a573f83_imageebook.png" class="book-img">
+
+<a href="https://wellnesswithsher.gumroad.com/l/jhhex?wanted=true" class="button">👉 Get Your Copy Now</a>
+</div>
+</div>
+
+<!-- WHAT YOU DISCOVER -->
+<div class="section">
+<div class="container">
+<h2>What You Will Discover</h2>
+
+<div class="cards">
+<div class="card">
+Stomach inflammation<br>
+Acid reflux<br>
+IBS & bloating<br>
+Weak immunity<br>
+Body detox
+</div>
+
+<div class="card">
+Low libido<br>
+Weight loss<br>
+Liver health<br>
+Memory support<br>
+Hormonal balance
+</div>
+
+<div class="card">
+Menstrual pain<br>
+Prostate health<br>
+Vision support<br>
+Muscle pain<br>
+Overall wellness + 15 more common health problem
+</div>
+</div>
+
+</div>
+</div>
+
+<!-- INTRO -->
+<div class="section" style="background:#f0f5f2;">
+<div class="container">
+<h2>Introducing Your Complete Natural Healing Guide</h2>
+<p>This e-book focuses on real healing — not temporary symptom relief.</p>
+
+<ul>
+<li>✔ Understand each health problem</li>
+<li>✔ Learn why it happens</li>
+<li>✔ Discover the most powerful herbs</li>
+<li>✔ Follow exact step-by-step instructions</li>
+<li>✔ Know what results to expect</li>
+</ul>
+</div>
+</div>
+
+<!-- WHY DIFFERENT -->
+<div class="section">
+<div class="container">
+<h2>Why Modern Medicine Isn’t Always Enough</h2>
+<p>Most treatments manage symptoms — not root causes.</p>
+
+<ul>
+<li>❌ Recurring problems</li>
+<li>❌ Side effects</li>
+<li>❌ Dependency</li>
+<li>❌ Frustration</li>
+</ul>
+
+<p>Nature provides a safer, sustainable solution.</p>
+</div>
+</div>
+
+<!-- WHAT YOU GET -->
+<div class="section" style="background:#f0f5f2;">
+<div class="container">
+<h2>What You Receive Today</h2>
+
+<div class="cards">
+<div class="card">📘 Full Digital E-Book (PDF)</div>
+<div class="card">🌿 30+ In-Depth Chapters</div>
+<div class="card">📝 Step-by-Step Remedies</div>
+<div class="card">📱 Works on All Devices</div>
+<div class="card">📥 Instant Download</div>
+</div>
+</div>
+</div>
+<img src="https://d1yei2z3i6k35z.cloudfront.net/14921244/699357a573f83_imageebook.png" class="book-img">
+<!-- PRICE -->
+<div class="section">
+<div class="container">
+<h2>Special Launch Price</h2>
+<div class="price">$28.99</div>
+<p><span class="strike">$59.99</span> — Save $29.99 Today</p>
+<a href="https://wellnesswithsher.gumroad.com/l/jhhex?wanted=true" class="button">BUY NOW</a>
+</div>
+</div>
+<img src="https://d1yei2z3i6k35z.cloudfront.net/thumb_150/698b84fedc557_65b3c30d95aa8f52ea8c89ac_payment-trust-badge-example-2.png" class="book-img">
+<img src="https://d1yei2z3i6k35z.cloudfront.net/thumb_150/698f653f31d0f_money-back.png" class="book-img">
+<!-- REVIEWS -->
+<div class="section" style="background:#f0f5f2;">
+<div class="container">
+<h2>Customer Reviews ⭐⭐⭐⭐⭐</h2>
+
+<div class="review">
+“I feel much better without relying on painkillers. Truly life-changing.”
+<br><strong>– Daniel K.</strong>
+</div>
+
+<div class="review">
+“Clear explanations and powerful remedies. Worth every penny.”
+<br><strong>– Laura S.</strong>
+</div>
+
+<div class="review">
+“Exceeded my expectations. Easy and practical.”
+<br><strong>– Emily R.</strong>
+</div>
+
+</div>
+</div>
+
+<!-- GUARANTEE -->
+<div class="section">
+<div class="container">
+<h2>30-Day Money-Back Guarantee</h2>
+<p>If you're not completely satisfied, simply email us for a full refund. No stress. No risk.wellesswithsher@gmail.com </p>
+</div>
+</div>
+
+<!-- FINAL CTA -->
+<div class="section hero">
+<div class="container">
+<h2>Your Health Is Your Greatest Wealth</h2>
+<p>Don’t wait. Start your natural healing journey today.</p>
+<a href="https://wellnesswithsher.gumroad.com/l/jhhex?wanted=true" class="button">👉 Get Instant Access Now</a>
+</div>
+</div>
+
+<!-- FOOTER -->
+<div class="footer">
+<br><br>
+
+</div>
+<style>
+.legal-section {
+  max-width: 900px;
+  margin: 80px auto;
+  padding: 0 20px;
+  font-family: Arial, sans-serif;
+  line-height: 1.7;
+  color: #333;
+}
+
+.legal-section h1 {
+  font-size: 32px;
+  margin-bottom: 20px;
+  color: #1b5e20;
+}
+
+.legal-section h2 {
+  font-size: 22px;
+  margin-top: 40px;
+  margin-bottom: 15px;
+  color: #2e7d32;
+}
+
+.legal-section p {
+  margin-bottom: 15px;
+}
+
+.highlight {
+  font-weight: bold;
+}
+</style>
+
+<div class="legal-section">
+
+<h1>About Wellness With Sher</h1>
+
+<p>Wellness With Sher was created with one simple mission: to make natural wellness knowledge clear, practical, and accessible to everyone.</p>
+
+<p>In a world where many people feel overwhelmed by complex medical information and quick-fix solutions, we believe education is power. Our goal is to provide easy-to-understand guidance about traditional herbal practices that have been used for generations.</p>
+
+<p><span class="highlight">The Healing Power of Herbs</span> is designed to help readers better understand natural approaches to supporting overall wellness.</p>
+
+<p>We do not replace medical professionals. Instead, we encourage informed decisions and responsible self-education alongside proper medical guidance.</p>
+
+
+<h2>Contact Us</h2>
+
+<p>If you have questions about your purchase or need assistance, please contact us:</p>
+
+<p><strong>Email:</strong> wellesswithsher@gmail.com </p>
+<p><strong>Response Time:</strong> Within 24–48 business hours</p>
+
+
+<h2>Refund Policy</h2>
+
+<p>We offer a 30-day money-back guarantee.</p>
+
+<p>If you are not satisfied with your purchase, you may request a full refund within 30 days of purchase by contacting our support team with your order details.</p>
+
+<p>No hassle. No stress.</p>
+
+
+<h2>Privacy Policy</h2>
+
+<p>We respect your privacy and are committed to protecting your personal information.</p>
+
+<p>Any personal information collected during purchase (such as name and email address) is used solely for order processing and customer support.</p>
+
+<p>We do not sell, rent, or share your personal information with third parties.</p>
+
+
+<h2>Terms and Conditions</h2>
+
+<p>By purchasing this digital product, you agree that:</p>
+
+<p>• All content is provided for educational purposes only.<br>
+• This product is not intended to diagnose, treat, cure, or prevent any disease.<br>
+• Always consult a qualified healthcare professional before making health-related decisions.<br>
+• Digital products are for personal use only and may not be redistributed or resold.</p>
+
+
+<h2>Medical Disclaimer</h2>
+
+<p>The information provided in this digital book is for educational purposes only and is not intended as medical advice.</p>
+
+<p>Always consult your doctor or qualified healthcare provider before making changes to your medication, treatment, or health routine.</p>
+
+<p>The author and publisher are not responsible for any actions taken based on the information provided.</p>
+
+<p style="margin-top:40px;">Copyright © 2024 Wellness With Sher. All rights reserved.</p>
+
+</div>
